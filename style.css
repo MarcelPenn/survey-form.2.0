@@ -1,0 +1,49 @@
+.head {
+  text-align: center;
+  background-color: #eca1a6;
+}
+
+.name {
+  text-align: center;
+  background-color: #ada397;
+  padding: 1%;
+}
+
+.email {
+  text-align: center;
+  background-color: #ada397;
+  padding: 1%;
+}
+
+.number {
+  text-align: center;
+  background-color: #ada397;
+  padding: 1%;
+}
+
+.dropdown {
+  text-align: center;
+  background-color: #ada397;
+  padding: 1%;
+}
+
+.radio {
+  text-align: center;
+  background-color: #ada397;
+  padding: 1%;
+}
+
+.checks {
+  text-align: center;
+  background-color: #ada397;
+  padding: 1%;
+}
+
+.comments {
+  text-align: center;
+}
+
+.submit {
+  text-align: center;
+  margin-bottom: 3%;
+}
